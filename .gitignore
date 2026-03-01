@@ -1,0 +1,20 @@
+# Backend
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Frontend
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+*.local
+
+# Artifacts
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
+*.webp
